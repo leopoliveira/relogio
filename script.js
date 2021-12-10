@@ -29,3 +29,5 @@ function atualizaHora() {
     }
 }
 
+atualizaHora();
+
