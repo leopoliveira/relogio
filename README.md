@@ -1,4 +1,4 @@
-# Relogio
+# Relógio
 
 Projeto proposto por B7Web.
 
